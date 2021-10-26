@@ -172,6 +172,8 @@ VS Code 1.0 テーマ
 
 ## github.dev で Web 版 VS Code が使えるようになったよ (2021/08)
 
+`.`キーを押そう！
+
 ## タブの中で分割エディタを表示できるようになったよ (2021/09)
 
 ![](https://code.visualstudio.com/assets/updates/1_61/split-in-group.gif)
