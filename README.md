@@ -13,8 +13,8 @@ twitter, github: 74th
 - 『VS Code 実践ガイド』技術評論社 2020
 - 『VS Code デバッグ技術 2nd Edition』技術書典 11
 - 『Dev Container Guidebook』技術書典 9
-- 『Visual Studio Code Ninja Guide』技術書典 8
-- 『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7
+
+など
 
 ## この発表はなにか
 
