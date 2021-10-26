@@ -160,7 +160,7 @@ VS Code 1.0 テーマ
 
 ![](https://code.visualstudio.com/assets/updates/1_60/bracket-pair-colorization-on-off.drawio.png)
 
-## JS/TS で引数の名前をコード中表示したり、ダックタイピングの型を表示したりできるよ (2021/08)
+## JS/TS で引数の名前をコード中表示したり、型推論の型を表示したりできるよ (2021/08)
 
 ![](https://code.visualstudio.com/assets/updates/1_60/ts-inlay-parameters.png)
 
