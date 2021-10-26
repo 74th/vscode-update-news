@@ -164,6 +164,8 @@ VS Code 1.0 テーマ
 
 ![](https://code.visualstudio.com/assets/updates/1_60/ts-inlay-parameters.png)
 
+![](https://code.visualstudio.com/assets/updates/1_60/ts-inlay-var-types.png)
+
 ## エディターを閉じてしまわないようにタブをロックできるようになったよ (2021/08)
 
 ![](https://code.visualstudio.com/assets/updates/1_60/locked-editor-layout.png)
