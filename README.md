@@ -36,7 +36,7 @@ twitter, github: 74th
 
 ## タブが多段になるよ (2021/01)
 
-![](https://code.visualstudio.com/assets/updates/1_53/tabs-wrap.gif)
+[![画像](https://code.visualstudio.com/assets/updates/1_53/tabs-wrap.gif)](https://code.visualstudio.com/assets/updates/1_53/tabs-wrap.gif)
 
 ## マークダウンのプレビューの画像が自動再読み込みに対応したよ (2021/01)
 
